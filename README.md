@@ -1,1 +1,1 @@
-# web3-tester
+# the web3 test public course resource
